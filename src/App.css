@@ -1,3 +1,7 @@
+{/* The following line can be included in your src/index.js or App.js file*/}
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
 .App {
   text-align: center;
 }
